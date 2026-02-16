@@ -4,7 +4,6 @@
 
 <h1 align="center">👋 Olá, eu sou João Carlos!</h1>
 
-### 🎓 Estudante de Desenvolvimento de Sistemas na ETEC  
 ### 💻 Desenvolvedor Full Stack | Apaixonado por Inteligência Artificial  
 
 ---
